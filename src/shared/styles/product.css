@@ -1,0 +1,6 @@
+.row{
+    display: flex;
+}
+.row_title{
+    padding-left: 105px;
+}

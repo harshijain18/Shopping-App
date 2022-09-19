@@ -1,0 +1,36 @@
+.goals_container{
+    height: 100vh;
+    background-image: url(./goalsBackgroundImage.jpg);
+    
+}
+.goals_background{
+    width: 100%;
+    height: 100vh;
+}
+.goals_header{
+    text-align: center;
+    color: white;
+}
+.goals_description{
+    text-align: center;
+    color: white;
+}
+.image {
+    display:flex;
+    flex-direction: row;
+    position: relative;
+    /* align-items: center; */
+    /* padding: 38vh 100vh 0vh 0vh; */
+    padding-left: 90vh;
+    padding-top: 40vh;
+}
+.img{
+    height: 30vh;
+    width: 30vh;
+    padding-left: 25px;
+}
+.img:hover{
+    transform: scale(1.4);
+    
+    
+}
